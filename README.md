@@ -4,7 +4,7 @@ Oglala Lakota Data Cube 3000
 
 I am a PhD student- Natural Resource Managment at South Dakota State University. I am engineering baseline databases for remote sensing ground truthing as a methodology for developing a data sovereignty framework. 
 
-I am currently the Graduate Research Assistant for the Oglala Lakota College Math, Science, and Technolgy Department.
+I am currently the Graduate Research Assistant for the Oglala Lakota College Math, Science, and Technolgy Department. I was tasked with building an earth data cube for our community on Wazi Ahanhan Oyanke (Pine Ridge Indian Reservation). 
 
 Wopila, thank you, for visiting our github and for taking interest in our small data cube project. 
 
