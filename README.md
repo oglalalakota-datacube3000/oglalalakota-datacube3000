@@ -7,6 +7,7 @@ I am a PhD student- Natural Resource Managment at South Dakota State University.
 I am currently the Graduate Research Assistant for the Oglala Lakota College Math, Science, and Technolgy Department. I was tasked with building an earth data cube for our community on Wazi Ahanhan Oyanke (Pine Ridge Indian Reservation). 
 
 Wopila, thank you, for visiting our github and for taking interest in our small data cube project. 
+<img width="532" alt="Screenshot 2025-04-12 at 9 13 55 PM" src="https://github.com/user-attachments/assets/c0ae989a-623c-42f8-bfe7-5ba7b4565a42" />
 
 <!--
 **oglalalakota-datacube3000/oglalalakota-datacube3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,5 +21,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...<img width="532" alt="Screenshot 2025-04-12 at 9 13 55 PM" src="https://github.com/user-attachments/assets/c541b3aa-fe0d-4aed-8dff-79441a96b6f8" />
+
 -->
