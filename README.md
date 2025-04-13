@@ -1,4 +1,12 @@
-## Hi there 👋
+Oglala Lakota Data Cube 3000
+
+⚡  Elisha Yellow Thunder emaciyapi. Oglala Lakota Winyan hemaca na Wakpmani Lake, South Dakota hematanhan. "They call me Elisha Yellow Thunder. I am an Oglala Lakota Woman and I come from Wakpamni Lake, SD."
+
+I am a PhD student- Natural Resource Managment at South Dakota State University. I am engineering baseline databases for remote sensing ground truthing as a methodology for developing a data sovereignty framework. 
+
+I am currently the Graduate Research Assistant for the Oglala Lakota College Math, Science, and Technolgy Department. I was tasked with building an earth data cube for our community on Wazi Ahanhan Oyanke (Pine Ridge Indian Reservation). 
+
+Wopila, thank you, for visiting our github and for taking interest in our small data cube project. 
 
 <!--
 **oglalalakota-datacube3000/oglalalakota-datacube3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
