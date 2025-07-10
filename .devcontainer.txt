@@ -1,0 +1,5 @@
+your-repo/
+├── .devcontainer/
+├── notebooks/       # for your .ipynb files
+├── data/            # for agricultural datasets
+└── ...
