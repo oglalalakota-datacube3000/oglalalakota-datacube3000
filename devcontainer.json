@@ -1,0 +1,30 @@
+{
+    "name": "Agricultural Data Science",
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": ".."
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python",
+                "ms-toolsai.jupyter",
+                "ms-azuretools.vscode-docker",
+                "esbenp.prettier-vscode",
+                "yzhang.markdown-all-in-one"
+            ]
+        }
+    },
+    "workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind",
+    "workspaceFolder": "/workspace",
+    "remoteUser": "vscode",
+    "features": {
+        "ghcr.io/devcontainers/features/python:1": {
+            "version": "3.9",
+            "installJupyter": true
+        },
+        "ghcr.io/devcontainers/features/git:1": {},
+        "ghcr.io/devcontainers-contrib/features/conda:1": {}
+    },
+    "postCreateCommand": "pip install --user -r requirements.txt"
+}
